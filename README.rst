@@ -20,8 +20,11 @@ TinyMCE (Plone's WYSIWYG Editor) - http://www.tinymce.com/ and http://productsti
 Other Editors
 -------------
 CKEditor - http://ckeditor.com/
+
 Others? If you use something different `contact me. <mailto:devPyPlTw@verizon.net?subject=This_is_the_editor_I_use>`_
 
 Ed Manlove
+
 devPyPlTw@verizon.net
+
 https://github.com/emanlove
